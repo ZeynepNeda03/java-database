@@ -1,3 +1,4 @@
+package com.zeynepneda.userdata;
 
 class User {
 
